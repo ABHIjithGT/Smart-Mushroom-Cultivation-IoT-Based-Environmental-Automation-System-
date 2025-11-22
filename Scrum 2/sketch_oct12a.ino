@@ -45,6 +45,7 @@ bool humidAlertSent = false;
 unsigned long lastStatusTime = 0;
 const unsigned long statusInterval = 300000; // 5 minutes
 
+
 // --- Forward declarations ---
 String getStatusString();
 void sendSensorsToBlynk();
