@@ -11,7 +11,6 @@
 #define BLYNK_AUTH_TOKEN "y2EbNfbNNvBHfInzTLdSDLw_zoAkmW20"
 #include <BlynkSimpleEsp32.h>
 
-
 // --- Pins ---
 #define DHTPIN 4
 #define DHTTYPE DHT22
