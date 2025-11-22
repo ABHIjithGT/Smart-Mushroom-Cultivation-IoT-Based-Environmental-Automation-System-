@@ -51,7 +51,8 @@ void sendSensorsToBlynk();
 void sendStatusTelegram();
 void checkTelegram();
 
-// ================== Setup ==================
+
+// ================ Setup ================
 void setup() {
   Serial.begin(115200);
   dht.begin();
